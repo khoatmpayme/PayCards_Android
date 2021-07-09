@@ -39,6 +39,7 @@ private void scanCard() {
 }
 ```
 
+
 Handle the result:
 
 ```java
